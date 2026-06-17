@@ -1,5 +1,4 @@
-# 🚚 Vendor Invoice Intelligence Portal
-
+# 🚚 Vendor Invoice Intelligence System
 ## Overview
 
 Vendor Invoice Intelligence Portal is a Machine Learning-powered application that predicts freight costs from vendor invoice data. The solution helps finance and procurement teams improve forecasting accuracy, reduce manual effort, and support data-driven decision-making.
@@ -143,6 +142,9 @@ Open the URL in your browser.
 
 ---
 ![image alt](https://github.com/Alnayab786/vendor-invoice-Intelligence-system-machine-learning-python-sql/blob/fde6861feaeb3f5820d858eb848dab6bff2c0ce1/Screenshot%202026-06-15%20200832.png).
+
+![image alt](https://github.com/Alnayab786/vendor-invoice-Intelligence-system-machine-learning-python-sql/blob/58441165cd9edfa3199a432088513d2a7988b309/Screenshot%202026-06-15%20200909.png).
+
 ## Dashboard Inputs
 
 Users can enter:
