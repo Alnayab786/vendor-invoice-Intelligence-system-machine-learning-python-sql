@@ -142,7 +142,7 @@ http://localhost:8501
 Open the URL in your browser.
 
 ---
-
+![image alt](https://github.com/Alnayab786/vendor-invoice-Intelligence-system-machine-learning-python-sql/blob/fde6861feaeb3f5820d858eb848dab6bff2c0ce1/Screenshot%202026-06-15%20200832.png).
 ## Dashboard Inputs
 
 Users can enter:
