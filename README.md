@@ -206,7 +206,7 @@ Reduces manual calculations and accelerates invoice review processes.
 
 ## Author
 
-**Al Nayab**
+**Alnayab**
 / **Data Analyst**
 / **Email: nayabmansoori@gmail.com**
 
